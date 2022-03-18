@@ -1,0 +1,19 @@
+#inner-box1 {
+  width: 100px;
+  height: 100px;
+  background: lightblue;
+  float: right;
+  overflow: auto;
+}
+
+#inner-box2 {
+  width: 100px;
+  height: 100px;
+  background: red;
+  float: left;
+  overflow: auto;
+}
+
+#container {
+  border: 2px solid black;
+}
